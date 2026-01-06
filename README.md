@@ -3,6 +3,7 @@ The original code is ARCHIVED.
 I have no knowledge/desire for maintaining this codebase.
 I am only adding a dockerfile to make running it easier.
 USE AT YOUR OWN RISK!
+Available: https://hub.docker.com/r/neomatrixjr/atorch-console
 
 # Atorch Console
 
